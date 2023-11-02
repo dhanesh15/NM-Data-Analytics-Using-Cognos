@@ -1,11 +1,16 @@
 # Customer Churn Prediction - Data Analytics Using IBM Cognos
 ## Team Members:
-### Rithees S M
-### Akshay G S
-### Dhanesh C N E
-### Divyavarshini K
+**Rithees S M**
+**Akshay G S**
+**Dhanesh C N E**
+**Divyavarshini K**
 
-## Department Of Electronics, Madras Institute of Technology
+_Department Of Electronics, Madras Institute of Technology_
 
-## Overview of Phases
+## Project Description
+The project involves using IBM Cognos to predict customer churn and identify factors influencing customer retention. The goal is to help businesses reduce customer attrition by understanding the patterns and reasons behind customers leaving. This project includes defining analysis objectives, collecting customer data, designing relevant visualizations in IBM Cognos, and building a predictive model.
+## Database Link
+[Click here to view the dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+
 
