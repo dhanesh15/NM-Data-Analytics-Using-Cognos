@@ -43,4 +43,4 @@ Class imbalances were reduced using SMOTE analysis.
 RFE is used for feature selection.
 Model ensembling is carried out using a voting classifier (Models: XGBoost and Random Forest)
 
-[Phase 4 Documentation](DAC_Phase5.docx)
+[Phase 5 Documentation](DAC_Phase5.docx)
