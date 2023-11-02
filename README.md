@@ -26,7 +26,7 @@ In this phase, method of approach and flow of working was decided. Brief descrip
 [Phase 2 Documentation](DAC_Phase2.docx)
 
 # Phase 3
-Primary phase 3 objective is to clean the given dataset and preprocess to perfrom various analysis.
+Primary phase 3 objective is to clean the given dataset and preprocess to perform various analysis.
 Duplicates and Nulls were removed. Unwanted and redundant rows and columns were removed from the dataset. All categorical values were converted to binary / numerical values. Some of the categorical based visualizations were also performed.
 
 [Phase 3 Documentation](DAC_Phase3.docx)
