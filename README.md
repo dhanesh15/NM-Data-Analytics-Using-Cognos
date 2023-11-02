@@ -1,13 +1,10 @@
 # Customer Churn Prediction - Data Analytics Using IBM Cognos
 ## Team Members:
 
-**Rithees S M**
-
-**Akshay G S**
-
-**Dhanesh C N E**
-
-**Divyavarshini K**
+**Rithees S M (2021504032)**
+**Akshay G S (2021504502)**
+**Dhanesh C N E (2021504510)**
+**Divyavarshini K (2021504513)**
 
 _Department Of Electronics, Madras Institute of Technology_
 
