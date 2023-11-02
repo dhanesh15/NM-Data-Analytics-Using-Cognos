@@ -18,3 +18,21 @@ The project involves using IBM Cognos to predict customer churn and identify fac
 In this phase, analysis objectives, data collection methods, visualization strategy and description about predictive modelling techniques were clearly defined.
 
 [Phase 1 Documentation](DAC_Phase1.docx)
+
+# Phase 2
+In this phase, method of approach and flow of working was decided. Brief description various benefits of the chosen approach were documented.
+**Method of approach: Using of Ensembled Models**
+
+[Phase 2 Documentation](DAC_Phase2.docx)
+
+# Phase 3
+Primary phase 3 objective is to clean the given dataset and preprocess to perfrom various analysis.
+Duplicates and Nulls were removed. Unwanted and redundant rows and columns were removed from the dataset. All categorical values were converted to binary / numerical values. Some of the categorical based visualizations were also performed.
+
+[Phase 3 Documentation](DAC_Phase3.docx)
+
+# Phase 4
+
+
+
+
