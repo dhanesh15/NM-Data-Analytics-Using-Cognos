@@ -13,7 +13,7 @@ The project involves using IBM Cognos to predict customer churn and identify fac
 ## Database Link
 [Click here to view the dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-## Overview of Phases
+
 # Phase 1
 In this phase, analysis objectives, data collection methods, visualization strategy and description about predictive modelling techniques were clearly defined.
 
@@ -32,7 +32,15 @@ Duplicates and Nulls were removed. Unwanted and redundant rows and columns were 
 [Phase 3 Documentation](DAC_Phase3.docx)
 
 # Phase 4
+This phase mainly focuses on different analysis, model building and evaluation based on the requirement.
+Various models such as Logistic Regression, Random Forest and XGBoost were compared and used to predict the most important category affect the churn rate. Based on the results, various graphs were plotted using IBM Cognos.
 
+[Phase 4 Documentation](DAC_Phase4.docx)
 
+# Phase 5
+Final phase of this project is to continue building the model.
+Class imbalances were reduced using SMOTE analysis. 
+RFE is used for feature selection.
+Model ensembling is carried out using a voting classifier (Models: XGBoost and Random Forest)
 
 
