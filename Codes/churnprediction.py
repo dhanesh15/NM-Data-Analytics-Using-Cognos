@@ -24,6 +24,12 @@ from sklearn.model_selection import KFold, StratifiedKFold
 #import SMOTE
 from imblearn.over_sampling import SMOTE
 from xgboost import XGBClassifier
+from sklearn.model_selection import StratifiedShuffleSplit, StratifiedKFold, GridSearchCV
+from sklearn.metrics import classification_report
+from xgboost import XGBClassifier
+from imblearn.over_sampling import SMOTE
+import matplotlib.pyplot as plt
+
 
 from google.colab import files
 uploaded = files.upload()
@@ -298,11 +304,6 @@ cm = [[1244, 240], [199, 427]]
 
 """## Refining the model"""
 
-from sklearn.model_selection import StratifiedShuffleSplit, StratifiedKFold, GridSearchCV
-from sklearn.metrics import classification_report
-from xgboost import XGBClassifier
-from imblearn.over_sampling import SMOTE
-import matplotlib.pyplot as plt
 
 # Implementing StratifiedShuffleSplit
 sss = StratifiedShuffleSplit(n_splits=1, test_size=0.3, random_state=123)
