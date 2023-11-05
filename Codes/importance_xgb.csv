@@ -1,0 +1,46 @@
+importance,feature
+0.026149055,SeniorCitizen
+0.022109354,tenure
+0.016048776,MonthlyCharges
+0.010081116,TotalCharges
+0.01209218,gender_Female
+0.0,gender_Male
+0.016304765,Partner_No
+0.0,Partner_Yes
+0.016981725,Dependents_No
+0.0,Dependents_Yes
+0.018734887,PhoneService_No
+0.0,PhoneService_Yes
+0.019345962,MultipleLines_No
+0.0,MultipleLines_No phone service
+0.013958756,MultipleLines_Yes
+0.021718185,InternetService_DSL
+0.037230123,InternetService_Fiber optic
+0.0,InternetService_No
+0.07539655,OnlineSecurity_No
+0.0,OnlineSecurity_No internet service
+0.005886284,OnlineSecurity_Yes
+0.025831781,OnlineBackup_No
+0.0,OnlineBackup_No internet service
+0.010714338,OnlineBackup_Yes
+0.011103689,DeviceProtection_No
+0.0,DeviceProtection_No internet service
+0.005636129,DeviceProtection_Yes
+0.050349742,TechSupport_No
+0.0,TechSupport_No internet service
+0.008507708,TechSupport_Yes
+0.014735431,StreamingTV_No
+0.0,StreamingTV_No internet service
+0.011230101,StreamingTV_Yes
+0.011621741,StreamingMovies_No
+0.0,StreamingMovies_No internet service
+0.00993744,StreamingMovies_Yes
+0.37441579,Contract_Month-to-month
+0.010532444,Contract_One year
+0.01989417,Contract_Two year
+0.03683278,PaperlessBilling_No
+0.0,PaperlessBilling_Yes
+0.008566471,PaymentMethod_Bank transfer (automatic)
+0.02668793,PaymentMethod_Credit card (automatic)
+0.04206422,PaymentMethod_Electronic check
+0.009300341,PaymentMethod_Mailed check
